@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: Project1, Configuration: Debug Win32 ------
+1>Assembling test.asm...
+1>Project1.vcxproj -> C:\Users\jritc\Desktop\CIS 310 Computer Org\Program1\Project1\Debug\Project1.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
